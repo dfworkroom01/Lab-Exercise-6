@@ -1,7 +1,5 @@
-TITLE			        DESCRIPTION	    AUTHOR			NUMBER OF PAGES
-The Sign of the Four	        Mystery		    Arthur Conan Doyle		117
-The Attic Murder	        Thriller	    Fowler Right		212
-	
-
-
-
+TITLE			        DESCRIPTION	    	AUTHOR			NUMBER OF PAGES
+The Sign of the Four	        Mystery		    	Arthur Conan Doyle	117
+The Attic Murder	        Thriller		Fowler Right		212
+The Phantom of the Opera	Psychological		Gaston Leroux		254
+Criminal Psychology		Psychological		Hans Gross		740	
