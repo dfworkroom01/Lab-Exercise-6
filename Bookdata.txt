@@ -1,0 +1,7 @@
+TITLE			        DESCRIPTION	    AUTHOR			    NUMBER OF PAGES
+The Sign of the Four	Mystery		    Arthur Conan Doyle	117
+The Attic Murder	    Thriller	    Fowler Right		212
+	
+
+
+
