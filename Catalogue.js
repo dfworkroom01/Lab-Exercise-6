@@ -8,7 +8,7 @@ const catalogue1= {
 console.log(catalogue1.Title)
 console.log(catalogue1.Description)
 console.log(catalogue1.Author)
-console.log(catalogue1.Pages)
+console.log(catalogue1.Pages) 
 
 
 const catalogue2= { 
@@ -21,3 +21,6 @@ console.log(catalogue2.Title)
 console.log(catalogue2.Description)
 console.log(catalogue2.Author)
 console.log(catalogue2.Pages)
+
+
+    
