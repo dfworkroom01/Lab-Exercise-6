@@ -5,6 +5,7 @@ const catalogue1= {
     Pages: 'TOTAL PAGES: 117'
 
 }
+//To show the value of each element of the array one by one
 console.log(catalogue1.Title)
 console.log(catalogue1.Description)
 console.log(catalogue1.Author)
@@ -17,11 +18,13 @@ const catalogue2= {
     Author:'AUTHOR: Fowler Right',
     Pages:'TOTAL PAGES: 212'
     }
+//To show the value of each element of the array one by one
 console.log(catalogue2.Title)
 console.log(catalogue2.Description)
 console.log(catalogue2.Author)
 console.log(catalogue2.Pages)
 
+//To findout if there are keys as per expected for the array
 if (Object.keys(catalogue1).includes('Title', 'Decsription', 'Author', 'Pages')) {
     console.log('true');
 } else {
